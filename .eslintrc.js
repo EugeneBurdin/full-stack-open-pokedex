@@ -23,10 +23,6 @@ module.exports = {
       "error",
         2
       ],
-    "linebreak-style": [
-      "error",
-      "windows"
-    ],
     "eqeqeq": "error",
     "no-trailing-spaces": "error",
     "object-curly-spacing": [
