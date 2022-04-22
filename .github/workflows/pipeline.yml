@@ -33,3 +33,5 @@ jobs:
           heroku_app_name: "my-fso-cicd" #Must be unique in Heroku
           heroku_email: "jouta.helm@gmail.com"
           healthcheck: "https://my-fso-cicd.herokuapp.com/health"
+          checkstring: "ok"
+          rollbackonhealthcheckfailed: true
