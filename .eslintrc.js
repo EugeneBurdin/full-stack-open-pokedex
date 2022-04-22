@@ -25,15 +25,7 @@ module.exports = {
       ],
     "linebreak-style": [
       "error",
-      "unix"
-    ],
-    "quotes": [
-      "error",
-      "single"
-    ],
-    "semi": [
-      "error",
-      "never"
+      "windows"
     ],
     "eqeqeq": "error",
     "no-trailing-spaces": "error",
